@@ -1,0 +1,1 @@
+﻿SELECT * FROM public."author" WHERE "author"."name" LIKE '%olg%'
